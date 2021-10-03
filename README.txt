@@ -1,1 +1,1 @@
-Firebase V8.3.0
+Veri Firebase yang digunakan V8.3.0
